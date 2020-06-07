@@ -1,0 +1,4 @@
+#ifndef BASICTOWERINOF_H
+#define BASICTOWERINOF_H
+
+#endif // BASICTOWERINOF_H

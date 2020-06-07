@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Saved Pictures/AKKO.jpg</file>
+        <file>Saved Pictures/KAR.jpg</file>
+        <file>Saved Pictures/mainScene.png</file>
+        <file>Saved Pictures/Minecarft2.png</file>
+        <file>Saved Pictures/Minecraft3.png</file>
+        <file>Saved Pictures/quitBtn.png</file>
+        <file>Saved Pictures/quitBtn2.png</file>
+        <file>Saved Pictures/scenery1.jpg</file>
+        <file>Saved Pictures/scenery3.jpg</file>
+        <file>Saved Pictures/startBtn.png</file>
+        <file>Saved Pictures/level1Scene.png</file>
+        <file>Saved Pictures/Loc.png</file>
+        <file>Saved Pictures/LocClicked2.png</file>
+        <file>Saved Pictures/LocClicked.png</file>
+        <file>Saved Pictures/Gnoll.png</file>
+        <file>Saved Pictures/archeryTowerLevel1.png</file>
+        <file>Saved Pictures/archeryTowerBullet.png</file>
+        <file>Saved Pictures/chooseTowerScene.png</file>
+        <file>Saved Pictures/archeryTowerLevel2.png</file>
+        <file>Saved Pictures/archeryTowerLevel3.png</file>
+        <file>Saved Pictures/magicTowerLevel1.png</file>
+        <file>Saved Pictures/magicTowerLevel2.png</file>
+        <file>Saved Pictures/magicTowerLevel3.png</file>
+        <file>Saved Pictures/magicTowerBullet.png</file>
+        <file>Saved Pictures/Orge.png</file>
+        <file>Saved Pictures/Level2Scene.png</file>
+        <file>Saved Pictures/levelSceneChooseButton.png</file>
+        <file>Saved Pictures/levelScene.png</file>
+    </qresource>
+</RCC>
