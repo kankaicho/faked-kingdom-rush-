@@ -201,32 +201,13 @@ void Level1::paintEvent(QPaintEvent *)
 
 int Level1::getMonsterType()
 {
-    int type = qrand()%3;
+    int type = rand()%3;
     return type;
 }
 
 void Level1::showEnemy()
 {
     currentTime ++;
-//    if(currentTime == timeInterval && currentEnemyNumber <= Level1EnemyNumber)
-//    {
-//        currentTime = 0;
-//        if(getMonsterType() == 1)
-//        {
-//            finalEnemy[currentEnemyNumber] = new gnoll;
-//            finalEnemy[currentEnemyNumber]->isFree = false;
-//            finalEnemy[currentEnemyNumber]->mX = Path1X[0];
-//            finalEnemy[currentEnemyNumber]->mY = Path1Y[0];
-//        }
-//        else if(getMonsterType() == 2)
-//        {
-//            finalEnemy[currentEnemyNumber++] = new orge;
-//            finalEnemy[currentEnemyNumber]->isFree = false;
-//            finalEnemy[currentEnemyNumber]->mX = Path2X[0];
-//            finalEnemy[currentEnemyNumber]->mY = Path2Y[0];
-//        }
-//        currentEnemyNumber ++;
-//    }
 
     if(currentTime == timeInterval)
     {
